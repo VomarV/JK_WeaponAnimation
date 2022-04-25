@@ -4,3 +4,5 @@
 <details>
 https://www.youtube.com/watch?v=nZeVyjkG8f8
 </details>
+
+Disocrd Link : https://discord.gg/VeFBXyDw97
