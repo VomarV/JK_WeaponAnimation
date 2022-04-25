@@ -1,0 +1,40 @@
+#overlay {
+    position: absolute;
+    background-color: #00000073;
+    height: 65vh;
+    width: 50%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50px;
+    border: 2px solid #000000;
+}
+
+#title {
+    text-align: center;
+    color: rgb(0, 115, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#DefaultAim {
+    margin-left: 9%;
+}
+
+#DefaultHolster {
+    margin-left: 9%;
+}
+
+#FrontHolster {
+    margin-left: 9%;
+}
+
+.Images {
+    border-radius: 10px;
+    width: 23%;
+    margin: 2% 3%;
+}
+.Images:hover {
+    box-shadow: 0px 5px 15px black;
+    transform: translateY(-10%);
+    transition:0.5s;
+}
